@@ -11,4 +11,4 @@ Since this is a one-week project, make sure that you have done at least half of 
 
 Although you and your partner will divide the work, it’s essential to collaborate and communicate while working on different parts of the project. Be sure to check in with your partner regularly and offer support.
 
-
+A Crowdfunding database made up of 4 tables. The tables are categories, subcategories, contacts, and campaigns. The campaign table includes category, subcategory, and contact id's to reference to those tables. We used python to extract and clean our data in order to load it into our database. Four Pandas DataFrames were created and exported to csv's. 
